@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhagyasruthi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Advanced JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me thisissruthi12@gmail.com.
 
 <!---
